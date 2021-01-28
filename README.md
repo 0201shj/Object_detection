@@ -1,6 +1,6 @@
 # Object_detection
 ## Kaggle: https://www.kaggle.com/ultralytics/yolov5-ultralytics - COCO 128 small
-2021-01-08
+2021-01-08\
 image scrapping\
 rpa : file names change
 Use CVAT(Computer Vision Annotation Tool) \
